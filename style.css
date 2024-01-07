@@ -13,11 +13,9 @@
 }
     body {
       font-family: 'Muli', sans-serif;
-      display: flex;
+
       align-items: baseline;
      
-      height: 100vh;
-      overflow: hidden;
    
       background-color: rgb(187, 187, 199);
     }
