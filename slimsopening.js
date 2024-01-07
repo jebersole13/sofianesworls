@@ -1,7 +1,7 @@
-const button = document.querySelector('button')
+const button1 = document.querySelector('button')
 
-button.addEventListener('click', (event)=>{
- button.textContent = `Click count: ${event.detail}`;
+button1.addEventListener('click', (event)=>{
+ button1.textContent = `Click count: ${event.detail}`;
   
 })
 
