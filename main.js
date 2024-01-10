@@ -1,4 +1,11 @@
+//data
 
+const choiceA= '';
+const choiceB='';
+const characterPath1='';
+const characterPath2='';
+
+//functions
 const character = {
     characterChoice: function(){
         return this.choiceA + ' ' + this.choiceB +' has been chosen.'; 
@@ -7,10 +14,8 @@ const character = {
 
 
 
-const choice1 = 'Slim\'s choice ';
 
-const choice2= 'Sofian\'s choice';
-
+//if 
 if ( chosen ==choice1 ){
     return characterPath1
 }else {
@@ -19,3 +24,4 @@ if ( chosen ==choice1 ){
 
 
 
+//1-10-2024, rewrite to make choice forks
