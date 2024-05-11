@@ -1,6 +1,11 @@
 var simplehash= new Object();
 
-
+/**
+ * 
+ * Why?
+ *!Be careful 
+ *TODO:
+ */
 simplehash['key1']= 'slim';
 simplehash['key2']='sofian'
 simplehash['key3']='leon';
